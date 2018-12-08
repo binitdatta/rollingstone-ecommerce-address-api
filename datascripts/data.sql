@@ -1,3 +1,21 @@
+INSERT INTO `ROLLINGSTONE_USER`
+(
+`first_name`,
+`last_name`,
+`member_type`,
+`registration_date`,
+`sex`,
+`user_name`,
+`account_number`)
+VALUES
+(
+'Binit',
+'Datta',
+'G',
+'2015-01-01',
+'M',
+'bdatta',
+'10001');
 
 INSERT INTO `rollingstone_account`
 (
